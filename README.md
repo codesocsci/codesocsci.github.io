@@ -1,3 +1,3 @@
-# uno-spa.github.io
+# codesocsci.github.io
 
-A placeholder for the UNO-SPA Github repository
+A placeholder for the Coding in Social Science Github repository
